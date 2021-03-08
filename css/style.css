@@ -53,10 +53,10 @@ main{
 /* CONTAINER STADIUM BACKGROUNDS */
 
 #Uefaopening{
-  background-image: url('Images/UCL.jpg');
-  /* background-size: cover;
+  background-image: url('../images/UCL.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center; */
+  background-position: center center;
 }
 
 /* #juveportobg{
