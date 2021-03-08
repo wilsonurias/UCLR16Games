@@ -59,8 +59,8 @@ main{
   background-position: center center;
 }
 
-/* #juveportobg{
-  background-image: url('/Users/wilsonurias/Desktop/Champions League Matchups/Images/juveporto.jpg');
+#juveportobg{
+  background-image: url('../images/juveporto.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -69,15 +69,15 @@ main{
 
 
 #bvbsevillabg{
-  background-image: url('/Users/wilsonurias/Desktop/Champions League Matchups/Images/bvbsevilla.jpg');
+  background-image: url('../images/bvbsevilla.jpg');
   background-size: cover;
 }
 
 
 #barcapsgbg{
-  background-image: url('/Users/wilsonurias/Desktop/Champions League Matchups/Images/parcsdeprinces.jpg');
+  background-image: url('../images/parcsdeprinces.jpg');
   background-size: cover;
-} */
+}
 
 
 /* CONTAINER STADIUM BACKGROUNDS */
@@ -95,8 +95,8 @@ main{
 /* ADDITIONAL STYLES
 /*******************************************/
 
-@media screen and (max-width: 500px){
+/* @media screen and (max-width: 500px){
   .info{
     color: red;
   }
-}
+} */
