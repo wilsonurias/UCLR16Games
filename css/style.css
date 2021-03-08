@@ -52,12 +52,14 @@ main{
 
 /* CONTAINER STADIUM BACKGROUNDS */
 
-/* #Uefaopening{
+#Uefaopening{
   background-image: url('/Users/wilsonurias/Desktop/Champions League Matchups/Images/UCL.jpg');
   background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
-#juveportobg{
+/* #juveportobg{
   background-image: url('/Users/wilsonurias/Desktop/Champions League Matchups/Images/juveporto.jpg');
   background-size: cover;
   background-repeat: no-repeat;
