@@ -45,14 +45,14 @@ main{
   height: 150px;
   width: 500px;
   text-align: center;
-  color: white;
+  color: black;
   font-size: 2rem;
 }
 
 
+/* CONTAINER STADIUM BACKGROUNDS */
 
-
-#Uefaopening{
+/* #Uefaopening{
   background-image: url('/Users/wilsonurias/Desktop/Champions League Matchups/Images/UCL.jpg');
   background-size: cover;
 }
@@ -75,10 +75,10 @@ main{
 #barcapsgbg{
   background-image: url('/Users/wilsonurias/Desktop/Champions League Matchups/Images/parcsdeprinces.jpg');
   background-size: cover;
-}
+} */
 
 
-
+/* CONTAINER STADIUM BACKGROUNDS */
 
 
 
